@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "531092658628",
+    "project_id": "swiftbook-8c70a",
+    "storage_bucket": "swiftbook-8c70a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:531092658628:android:91a81ac12c1fc7078b2c91",
+        "android_client_info": {
+          "package_name": "com.example.swiftbook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "531092658628-b5pi58j9krf0dg70fp6kueif90t2deah.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABUej6pj39PG0hUc8mFsDQMugBfExqyH0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "531092658628-b5pi58j9krf0dg70fp6kueif90t2deah.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
